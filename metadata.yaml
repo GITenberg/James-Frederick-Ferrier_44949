@@ -20,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43001
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Haldane
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44949#James-Frederick-Ferrier
 gutenberg_bookshelf: Famous Scots Series
 gutenberg_issued: '2014-02-17'
 gutenberg_type: Text
