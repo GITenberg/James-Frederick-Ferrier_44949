@@ -1,0 +1,37 @@
+_repo: James-Frederick-Ferrier_44949
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Brown, Joseph
+    gutenberg_agent_id: '42796'
+    url: http://www.gutenberg.org/2009/agents/42796
+covers:
+- cover_type: archival
+  image_path: 44949-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Haldane, Elizabeth Sanderson
+    aliases:
+    - Haldane, E. S. (Elizabeth Sanderson)
+    - Haldane, Elizabeth S. (Elizabeth Sanderson)
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '43001'
+    url: http://www.gutenberg.org/2009/agents/43001
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Haldane
+description: ''
+gutenberg_bookshelf: Famous Scots Series
+gutenberg_issued: '2014-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44949'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Famous Scots Series, 28
+subjects:
+- !lcc 'B'
+- !lcsh 'Ferrier, James Frederick, 1808-1864'
+title: James Frederick Ferrier
+url: http://www.gutenberg.org/ebooks/44949
